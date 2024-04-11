@@ -2,8 +2,8 @@
     box-sizing: border-box;
 }
 
-h1, h2, h3, p {
-    font-family: Roboto, sans sans-serif;
+h1, h2, h3, p, .head_logo, a, .contentTwo, .picContainer, .main_photo {
+    font-family: roboto;
 }
 
 .header1, .footer {
